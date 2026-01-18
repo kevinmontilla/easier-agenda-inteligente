@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "easier-agenda",
+          "appId": "1:117705724863:android:f3427f9f11726666b9470a",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "easier-agenda",
+          "configurations": {
+            "android": "1:117705724863:android:f3427f9f11726666b9470a",
+            "ios": "1:117705724863:ios:a4d3ce8a60af7d34b9470a",
+            "macos": "1:117705724863:ios:a4d3ce8a60af7d34b9470a",
+            "web": "1:117705724863:web:b80fd94fe608e1fcb9470a",
+            "windows": "1:117705724863:web:966f3a47b8a6f46bb9470a"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

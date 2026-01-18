@@ -1,0 +1,42 @@
+name: easier_app
+description: "Easier - Tu Asistente Académico"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Localizaciones para el calendario en español
+  flutter_localizations:
+    sdk: flutter
+    
+  # Firebase
+  firebase_core: ^2.32.0
+  cloud_firestore: ^4.17.5
+  firebase_auth: ^4.16.0
+  
+  # Utilidades
+  cupertino_icons: ^1.0.2
+  intl: ^0.20.0 
+  http: ^1.1.0
+  flutter_svg: ^2.0.10
+  url_launcher: ^6.3.0  # Versión estable recomendada
+  video_player: ^2.9.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+# AQUÍ ES DONDE VAN LOS ASSETS
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+    - assets/videos/
