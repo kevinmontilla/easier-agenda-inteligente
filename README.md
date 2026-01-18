@@ -100,6 +100,6 @@ Estado: 🟡 En desarrollo.
 ## Autores
 
 <p style="font-size: 22px; font-family: 'Georgia', serif; line-height: 1.6;">
-  • <strong><a href="https://github.com/kevinmontilla">Kevin Montilla</a></strong><br>
-  • <strong><a href="https://github.com/carlosluna1611">Carlos Luna</a></strong>
+   • <strong><a href="https://github.com/carlosluna1611">Carlos Luna</a></strong><br>
+   • <strong><a href="https://github.com/kevinmontilla">Kevin Montilla</a></strong>
 </p>
