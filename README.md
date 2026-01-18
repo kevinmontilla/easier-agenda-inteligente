@@ -4,6 +4,12 @@
 
 ![Easier App Banner](screenshots/logotipo_color.png)
 
+## 🦎 Mascota
+
+<div align="center">
+  <img src="screenshots/isi.gif" alt="Mascota" height="240"/>
+</div>
+
 ## 🚀 Características Principales
 
 ### 📱 Aplicación Móvil (Flutter)
