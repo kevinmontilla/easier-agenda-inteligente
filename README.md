@@ -81,6 +81,17 @@ La lógica del servidor reside en los flujos de n8n:
   <img src="screenshots/perfil.jpg" alt="Perfil" width="250"/>
 </div>
 
+<br>
+
+## Video Demostrativo
+
+
+<div align="center">
+  <img src="screenshots/demostración_easier.gif" alt="Demostracion" width="250"/>
+</div>
+
+<br>
+
 📅 Estado del Proyecto
 Versión: 1.0 (Beta)
 
